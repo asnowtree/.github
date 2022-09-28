@@ -6,4 +6,4 @@ ASnowTree Technology Co., Ltd.
 
 official-website: [**asnowtree.cn**](https://www.asnowtree.cn)
 
-github-page: [**gh-page**](https://asnowtree.github.io)
+github-page: [**asnowtree.github.io**](https://asnowtree.github.io)
