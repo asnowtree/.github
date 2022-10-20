@@ -1,5 +1,7 @@
 ##    ASnowTree-team dev  
 
+新增 [讨论区](https://github.com/orgs/asnowtree/discussions) 为更好的讨论交流
+
 ASnowTree Technology Co., Ltd. 
 
 ##  Guided by thinking, Based on technology, Aimed at serving 
