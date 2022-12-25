@@ -2,7 +2,7 @@
 
 ASnowTree Technology Co., Ltd. 
 
-Provide international services without bias.
+Provide services without bias.
 
 ##  Guided by thinking, Based on technology, Aimed at serving 
 
